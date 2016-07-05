@@ -1,1 +1,0 @@
-../run-elixir-in-container.sh

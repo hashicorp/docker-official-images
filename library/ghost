@@ -1,8 +1,0 @@
-# this file is generated via https://github.com/docker-library/ghost/blob/8652c806a1af1beef0f9c4ec146262e50f6a4875/generate-stackbrew-library.sh
-
-Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
-             Joseph Ferguson <yosifkit@gmail.com> (@yosifkit)
-GitRepo: https://github.com/docker-library/ghost.git
-
-Tags: 0.8.0, 0.8, 0, latest
-GitCommit: e625fca128f8f6b41533e78a9c262701ce9027f5

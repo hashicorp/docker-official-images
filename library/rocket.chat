@@ -1,6 +1,0 @@
-# maintainer: Rocket.Chat Image Team <buildmaster@rocket.chat>
-
-0.35.0: git://github.com/RocketChat/Docker.Official.Image@d048a0d60f75b6a7e704e097488fd167484885cd
-0.35: git://github.com/RocketChat/Docker.Official.Image@d048a0d60f75b6a7e704e097488fd167484885cd
-0: git://github.com/RocketChat/Docker.Official.Image@d048a0d60f75b6a7e704e097488fd167484885cd
-latest: git://github.com/RocketChat/Docker.Official.Image@d048a0d60f75b6a7e704e097488fd167484885cd

@@ -1,1 +1,0 @@
-../run-erlang-in-container.sh

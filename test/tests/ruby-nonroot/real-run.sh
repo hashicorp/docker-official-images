@@ -1,1 +1,0 @@
-../ruby-bundler/run.sh

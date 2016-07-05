@@ -1,7 +1,0 @@
-# maintainer: David Gageot <david.gageot@sonarsource.com> (@dgageot)
-
-
-latest: git://github.com/SonarSource/docker-sonarqube@a0b588131c7729c8156936a4521740228fe682c6 5.6
-lts: git://github.com/SonarSource/docker-sonarqube@a0b588131c7729c8156936a4521740228fe682c6 5.6
-5.6: git://github.com/SonarSource/docker-sonarqube@a0b588131c7729c8156936a4521740228fe682c6 5.6
-5.6-alpine: git://github.com/SonarSource/docker-sonarqube@a0b588131c7729c8156936a4521740228fe682c6 5.6-alpine
