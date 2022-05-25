@@ -7,15 +7,23 @@ GitRepo: https://github.com/hashicorp/vault.git
 Tags: 1.10.0, latest
 Architectures: amd64, arm64v8, arm32v6, i386
 GitCommit: a256a5c459606a86d54591f783d9b24cc656bda4
+Directory: .release/docker
+File: Dockerfile.official
 
 Tags: 1.9.4
 Architectures: amd64, arm64v8, arm32v6, i386
 GitCommit: 3e7407f153474dacbeffe94323c9eb41e8186457
+Directory: .release/docker
+File: Dockerfile.official
 
 Tags: 1.8.9
 Architectures: amd64, arm64v8, arm32v6, i386
 GitCommit: 87e0840fd8f8a148ec8f023669b304bbd8524215
+Directory: .release/docker
+File: Dockerfile.official
 
 Tags: 1.7.10
 Architectures: amd64, arm64v8, arm32v6, i386
 GitCommit: dd76bb48eba5f804dc9d2cb7501e9634708f4417
+Directory: .release/docker
+File: Dockerfile.official
