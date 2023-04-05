@@ -8,7 +8,7 @@ Initial setup:
 When making a new PR:
 
 1. Run `git remote update`, then `git checkout upstream/master` to base your changes off the upstream master to avoid conflicts.
-2. Create a new release-specific branch such as `git checkout -b consul-1.8.3`
-3. Update the appropriate images with new versions and commit SHAs [example](https://github.com/hashicorp/docker-official-images/commit/0fee7acf05ed5abf3f78d44baca3d7b01b896738). The SHA should be the commit made for the corresponding version in [hashicorp/docker-consul](https://github.com/hashicorp/docker-consul/blob/master/0.X/Dockerfile). 
+2. Create a new release(s)-specific branch such as `git checkout -b consul-1.14.6-1.15.2`
+3. Update the appropriate images with new versions and commit SHAs ([example](https://github.com/hashicorp/docker-official-images/commit/4f030cd6a87c831b67db950f138036f99f940bb9)). The SHA should be the commit made for the corresponding version in [hashicorp/docker-consul](https://github.com/hashicorp/docker-consul/blob/master/0.X/Dockerfile). 
 4. Commit your changes and push the branch to the HashiCorp repo with `git push origin ${BRANCH}`
 5. Open a pull request against `https://github.com/docker-library/official-images` to update the official image from the new branch in our fork. (Clicking the `New Pull Request` button for your branch on https://github.com/hashicorp/docker-official-images/branches will set the upstream Docker repository as base by default.) 
